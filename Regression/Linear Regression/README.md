@@ -3,7 +3,7 @@
 ## What is Linear Regression
 Linear regression model is a linear approach to explain the relationship between a dependent variable and one or more independent variables using straight line. \
 The formula for straight line is y = mx + c \
-
+![WhatsApp Image 2021-06-04 at 8 04 50 AM](https://user-images.githubusercontent.com/83816588/120738142-f2e05680-c50c-11eb-8eab-12d6c50fe51c.jpeg)
 Here x : independent variable \
      y : dependent variable \
      m : slope (change is y with unit change in x) \
