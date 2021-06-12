@@ -89,3 +89,5 @@ reg = LinearRegression().fit(X, y)
 1. https://www.analyticsvidhya.com/blog/2021/04/gradient-descent-in-linear-regression/ 
 2. https://youtu.be/1-OGRohmH2s 
 3. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+4. https://youtu.be/8jazNUpO3lQ
+5. https://youtu.be/J_LnPL3Qg70
